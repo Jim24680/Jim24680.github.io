@@ -8,6 +8,7 @@
 
 header {
   background-color: rgb (90, 181, 242);
+  width: 100%;
 }
 
 h1 {
@@ -24,6 +25,7 @@ h1 {
   bottom: 600px;
   left: 950px;
   font-size: 40px;
+  width: 150px;
 }
 
 h2 {
