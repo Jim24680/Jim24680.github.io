@@ -6,6 +6,9 @@
   font-family: Helvetica;
 }
 
+header {
+  background-color: rgb (90, 181, 242);
+
 h1 {
   display: inline-block;
   width: 200px;
