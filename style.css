@@ -37,8 +37,16 @@ h2 {
 #map {
   position: relative;
   left: 25px;
-  top: 25 px;
+  top: 30 px;
   border: 3px solid black;
+}
+
+li {
+  position: relative;
+  bottom: 450 px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24 px;
 }
 
 .fields {
