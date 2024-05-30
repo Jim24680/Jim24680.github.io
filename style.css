@@ -2,14 +2,21 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Tahoma;
+  font-family: 'Tahoma';
 }
 
 .navigation {
   display: inline-block;
-  border: 3px solid coral;
-  widht: 50px;
+  border: 3px solid cornflowerblue;
+  widht: 150px;
   height: 100px;
+  position: relative;
+  left: 100px;
+}
+
+a {
+  font-size: 30px;
+  font-family: Tahoma;
 }
 
 #title {
