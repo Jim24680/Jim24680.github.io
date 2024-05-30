@@ -44,21 +44,21 @@ h2 {
 #map {
   position: relative;
   left: 25px;
-  top: 50px;
+  top: 100px;
   border: 3px solid black;
 }
 
 #loc {
   position: relative;
   left: 1000px;
-  bottom: 467px;
+  bottom: 400px;
   font-size: 30px;
   font-weight: 700;
 }
 
 li {
   position: relative;
-  bottom: 450px;
+  bottom: 380px;
   left: 725px;
   font-weight: 400;
   font-size: 24px;
