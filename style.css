@@ -5,6 +5,11 @@
   font-family: 'Tahoma';
 }
 
+header {
+  background-color: cornsilk;
+  border: 3px solid coral;
+}
+
 .navigation {
   display: inline-block;
   border: 3px solid cornflowerblue;
