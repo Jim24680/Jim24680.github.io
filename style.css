@@ -6,19 +6,19 @@
 }
 
 header {
-  background-color: cornsilk;
+  background-color: cornflowerblue;
   border: 3px solid coral;
 }
 
 .navigation {
   display: inline-block;
-  border: 3px solid cornflowerblue;
+  border: 3px solid white;
   widht: 150px;
   height: 70px;
   position: relative;
-  left: 100px;
-  margin: 50px;
-  padding: 20px;
+  left: 25px;
+  margin: 10px 25px;
+  padding: 5px;
 }
 
 #links {
