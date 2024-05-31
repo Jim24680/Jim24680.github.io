@@ -165,14 +165,14 @@ h2 {
 #jul {
   position: relative;
   left: 725px;
-  top: 50px;
+  bottom: 375px;
   border: 3px solid black;
 }
 
 #jim {
   position: relative;
   left: 1050px;
-  top: 50px;
+  bottom: 375px;
   border: 3px solid black;
 }
 
