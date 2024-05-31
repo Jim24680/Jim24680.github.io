@@ -58,47 +58,6 @@ a {
   border: 3px solid black;
 }
 
-
-/*li {
-  position: relative;
-  bottom: 330px;
-  left: 700px;
-  font-weight: 400;
-  font-size: 24px;
-  width: 700px;
-  border: 3px solid black;
-}*/
-
-/*
-.fields {
-  position: relative;
-  left: 25px;
-  top: 50px;
-  border: 3px solid black;
-}*/
-
-/*
-.ratings {
-  position: relative;
-  bottom: 400px;
-  left: 700px;
-  font-weight: 700;
-  font-size: 30px;
-  width: 500px;
-  border: 3px solid black;
-}*/
-
-/*.descriptor {
-  position: relative;
-  bottom: 375px;
-  left: 700px;
-  font-weight: 400;
-  font-size: 24px;
-  width: 700px;
-  border: 3px solid black;
-}
-*/
-
 .fieldsTwo {
   position: relative;
   left: 25px;
@@ -116,7 +75,7 @@ a {
   border: 3px solid black;
 }
 
-ul {
+.descriptorTwo {
   position: relative;
   bottom: 375px;
   left: 700px;
@@ -126,15 +85,195 @@ ul {
   border: 3px solid black;
 }
 
-/*.descriptorTwo {
+.avenelF {
   position: relative;
-  bottom: 775px;
+  left: 25px;
+  bottom: 250px;
+  border: 3px solid black;
+}
+
+.avenelR {
+  position: relative;
+  bottom: 700px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}
+
+.avenelD {
+  position: relative;
+  bottom: 675px;
   left: 700px;
   font-weight: 400;
   font-size: 24px;
   width: 700px;
   border: 3px solid black;
-}*/
+}
+
+.francisF {
+  position: relative;
+  left: 25px;
+  bottom: 550px;
+  border: 3px solid black;
+}
+
+.francisR {
+  position: relative;
+  bottom: 1000px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}
+
+.francisD {
+  position: relative;
+  bottom: 975px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+
+.hardyF {
+  position: relative;
+  left: 25px;
+  bottom: 850px;
+  border: 3px solid black;
+}
+
+.hardyR {
+  position: relative;
+  bottom: 1300px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}
+
+.hardyD {
+  position: relative;
+  bottom: 1275px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+
+.hearstF {
+  position: relative;
+  left: 25px;
+  bottom: 1150px;
+  border: 3px solid black;
+}
+
+.hearstR {
+  position: relative;
+  bottom: 1600px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}
+
+.hearstD {
+  position: relative;
+  bottom: 1575px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+
+.jelleffF {
+  position: relative;
+  left: 25px;
+  bottom: 1450px;
+  border: 3px solid black;
+}
+
+.jelleffR {
+  position: relative;
+  bottom: 1900px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}
+
+.jelleffD {
+  position: relative;
+  bottom: 1875px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+
+.linwayF {
+  position: relative;
+  left: 25px;
+  bottom: 1750px;
+  border: 3px solid black;
+}
+
+.linwayR {
+  position: relative;
+  bottom: 2200px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}
+
+.linwayD {
+  position: relative;
+  bottom: 2175px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+
+.palisadesF {
+  position: relative;
+  left: 25px;
+  bottom: 2050px;
+  border: 3px solid black;
+}
+
+.palisadesR {
+  position: relative;
+  bottom: 2500px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}
+
+.palisadesD {
+  position: relative;
+  bottom: 2475px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+
 
 h2 {
   position: relative;
@@ -185,3 +324,54 @@ h2 {
   width: 150px;
   border: 3px solid black;
 }
+
+
+/*li {
+  position: relative;
+  bottom: 330px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}*/
+
+/*
+.fields {
+  position: relative;
+  left: 25px;
+  top: 50px;
+  border: 3px solid black;
+}*/
+
+/*
+.ratings {
+  position: relative;
+  bottom: 400px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}*/
+
+/*.descriptor {
+  position: relative;
+  bottom: 375px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+*/
+
+/*.descriptorTwo {
+  position: relative;
+  bottom: 775px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}*/
