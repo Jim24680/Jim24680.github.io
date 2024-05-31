@@ -98,6 +98,7 @@ li {
 h2 {
   position: relative;
   top: 50px;
+  left: 50px;
   width: 600px;
   border: 3px solid black;
 }
