@@ -7,12 +7,10 @@
 
 header {
   background-color: rgb(156,218,247);
-  border: 3px solid coral;
 }
 
 .navigation {
   display: inline-block;
-  border: 3px solid white;
   width: 150px;
   height: 70px;
   position: relative;
@@ -30,7 +28,6 @@ a {
   position: relative;
   left: 100px;
   top: 50px;
-  border: 3px solid black;
 }
 
 #maplabel {
@@ -38,14 +35,12 @@ a {
   font-size: 40px;
   position: relative;
   top: 100px;
-  border: 3px solid black;
 }
 
 #map {
   position: relative;
   left: 25px;
   top: 100px;
-  border: 3px solid black;
 }
 
 .rightText {
@@ -55,7 +50,15 @@ a {
   font-size: 30px;
   font-weight: 700;
   width: 150px;
-  border: 3px solid black;
+}
+
+.locs {
+  position: relative;
+  bottom: 330px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
 }
 
 .fieldsTwo {
@@ -72,7 +75,6 @@ a {
   font-weight: 700;
   font-size: 30px;
   width: 500px;
-  border: 3px solid black;
 }
 
 .reedD {
@@ -82,7 +84,6 @@ a {
   font-weight: 400;
   font-size: 24px;
   width: 700px;
-  border: 3px solid black;
 }
 
 .avenelF {
@@ -99,7 +100,6 @@ a {
   font-weight: 700;
   font-size: 30px;
   width: 500px;
-  border: 3px solid black;
 }
 
 .avenelD {
@@ -109,7 +109,6 @@ a {
   font-weight: 400;
   font-size: 24px;
   width: 700px;
-  border: 3px solid black;
 }
 
 .francisF {
@@ -126,7 +125,6 @@ a {
   font-weight: 700;
   font-size: 30px;
   width: 500px;
-  border: 3px solid black;
 }
 
 .francisD {
@@ -136,7 +134,6 @@ a {
   font-weight: 400;
   font-size: 24px;
   width: 700px;
-  border: 3px solid black;
 }
 
 .hardyF {
@@ -153,7 +150,6 @@ a {
   font-weight: 700;
   font-size: 30px;
   width: 500px;
-  border: 3px solid black;
 }
 
 .hardyD {
@@ -163,7 +159,6 @@ a {
   font-weight: 400;
   font-size: 24px;
   width: 700px;
-  border: 3px solid black;
 }
 
 .hearstF {
@@ -180,7 +175,6 @@ a {
   font-weight: 700;
   font-size: 30px;
   width: 500px;
-  border: 3px solid black;
 }
 
 .hearstD {
@@ -190,7 +184,6 @@ a {
   font-weight: 400;
   font-size: 24px;
   width: 700px;
-  border: 3px solid black;
 }
 
 .jelleffF {
@@ -207,7 +200,6 @@ a {
   font-weight: 700;
   font-size: 30px;
   width: 500px;
-  border: 3px solid black;
 }
 
 .jelleffD {
@@ -217,7 +209,6 @@ a {
   font-weight: 400;
   font-size: 24px;
   width: 700px;
-  border: 3px solid black;
 }
 
 .linwayF {
@@ -234,7 +225,6 @@ a {
   font-weight: 700;
   font-size: 30px;
   width: 500px;
-  border: 3px solid black;
 }
 
 .linwayD {
@@ -244,7 +234,6 @@ a {
   font-weight: 400;
   font-size: 24px;
   width: 700px;
-  border: 3px solid black;
 }
 
 .palisadesF {
@@ -261,7 +250,6 @@ a {
   font-weight: 700;
   font-size: 30px;
   width: 500px;
-  border: 3px solid black;
 }
 
 .palisadesD {
@@ -271,7 +259,6 @@ a {
   font-weight: 400;
   font-size: 24px;
   width: 700px;
-  border: 3px solid black;
 }
 
 
@@ -280,7 +267,6 @@ h2 {
   top: 50px;
   left: 25px;
   width: 600px;
-  border: 3px solid black;
 }
 
 #projectDescription {
@@ -288,7 +274,6 @@ h2 {
   top: 50px;
   left: 25px;
   width: 600px;
-  border: 3px solid black;
   font-size: 24px;
 }
 
@@ -297,7 +282,6 @@ h2 {
   top: 50px;
   left: 25px;
   width: 600px;
-  border: 3px solid black;
   font-size: 24px;
 }
 
@@ -308,32 +292,21 @@ h2 {
   font-size: 30px;
   font-weight: 700;
   width: 300px;
-  border: 3px solid black;
 }
 
 #jul {
   position: relative;
   left: 700px;
   bottom: 455px;
-  border: 3px solid black;
 }
 
 #jim {
   position: relative;
   left: 725px;
   bottom: 485px;
-  border: 3px solid black;
 }
 
-.locs {
-  position: relative;
-  bottom: 330px;
-  left: 700px;
-  font-weight: 400;
-  font-size: 24px;
-  width: 700px;
-  border: 3px solid black;
-}
+
 
 /*
 .fields {
