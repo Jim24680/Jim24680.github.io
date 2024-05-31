@@ -58,7 +58,8 @@ a {
   border: 3px solid black;
 }
 
-li {
+
+/*li {
   position: relative;
   bottom: 330px;
   left: 700px;
@@ -66,7 +67,8 @@ li {
   font-size: 24px;
   width: 700px;
   border: 3px solid black;
-}
+}*/
+
 
 .fields {
   position: relative;
@@ -95,7 +97,7 @@ ul {
   border: 3px solid black;
 }
 
-.descriptor {
+/*.descriptor {
   position: relative;
   bottom: 375px;
   left: 700px;
@@ -110,7 +112,7 @@ ul {
   left: 25px;
   bottom: 350px;
   border: 3px solid black;
-}
+}*/
 
 .ratingsTwo {
   position: relative;
@@ -122,7 +124,7 @@ ul {
   border: 3px solid black;
 }
 
-.descriptorTwo {
+/*.descriptorTwo {
   position: relative;
   bottom: 775px;
   left: 700px;
@@ -130,7 +132,7 @@ ul {
   font-size: 24px;
   width: 700px;
   border: 3px solid black;
-}
+}*/
 
 h2 {
   position: relative;
