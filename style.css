@@ -85,6 +85,16 @@ li {
   border: 3px solid black;
 }
 
+ul {
+  position: relative;
+  bottom: 375px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+
 .descriptor {
   position: relative;
   bottom: 375px;
@@ -139,6 +149,4 @@ h2 {
   
 }
 
-ul {
-  border: 3px solid black;
-}
+
