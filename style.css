@@ -103,3 +103,30 @@ h2 {
   border: 3px solid black;
 }
 
+.fieldsTwo {
+  position: relative;
+  left: 25px;
+  bottom: 150px;
+  border: 3px solid black;
+}
+
+.ratingsTwo {
+  position: relative;
+  bottom: 600px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}
+
+.descriptorTwo {
+  position: relative;
+  bottom: 575px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+
