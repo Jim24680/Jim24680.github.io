@@ -48,7 +48,7 @@ a {
   border: 3px solid black;
 }
 
-#loc {
+.rightText {
   position: relative;
   left: 1000px;
   bottom: 400px;
@@ -150,7 +150,28 @@ h2 {
   left: 25px;
   width: 600px;
   border: 3px solid black;
-  
+  font-size: 24px;
 }
 
+#ratingDescription {
+  position: relative;
+  top: 50px;
+  left: 25px;
+  width: 600px;
+  border: 3px solid black;
+  font-size: 24px;
+}
 
+#jul {
+  position: relative;
+  left: 725px;
+  top: 50px;
+  border: 3px solid black;
+}
+
+#jim {
+  position: relative;
+  left: 1050px;
+  top: 50px;
+  border: 3px solid black;
+}
