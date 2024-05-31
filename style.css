@@ -51,7 +51,7 @@ a {
 #loc {
   position: relative;
   left: 1000px;
-  bottom: 350px;
+  bottom: 400px;
   font-size: 30px;
   font-weight: 700;
   width: 150px;
@@ -69,15 +69,44 @@ a {
   border: 3px solid black;
 }*/
 
-
+/*
 .fields {
+  position: relative;
+  left: 25px;
+  top: 50px;
+  border: 3px solid black;
+}*/
+
+/*
+.ratings {
+  position: relative;
+  bottom: 400px;
+  left: 700px;
+  font-weight: 700;
+  font-size: 30px;
+  width: 500px;
+  border: 3px solid black;
+}*/
+
+/*.descriptor {
+  position: relative;
+  bottom: 375px;
+  left: 700px;
+  font-weight: 400;
+  font-size: 24px;
+  width: 700px;
+  border: 3px solid black;
+}
+*/
+
+.fieldsTwo {
   position: relative;
   left: 25px;
   top: 50px;
   border: 3px solid black;
 }
 
-.ratings {
+.ratingsTwo {
   position: relative;
   bottom: 400px;
   left: 700px;
@@ -94,33 +123,6 @@ ul {
   font-weight: 400;
   font-size: 24px;
   width: 700px;
-  border: 3px solid black;
-}
-
-/*.descriptor {
-  position: relative;
-  bottom: 375px;
-  left: 700px;
-  font-weight: 400;
-  font-size: 24px;
-  width: 700px;
-  border: 3px solid black;
-}
-
-.fieldsTwo {
-  position: relative;
-  left: 25px;
-  bottom: 350px;
-  border: 3px solid black;
-}*/
-
-.ratingsTwo {
-  position: relative;
-  bottom: 800px;
-  left: 700px;
-  font-weight: 700;
-  font-size: 30px;
-  width: 500px;
   border: 3px solid black;
 }
 
