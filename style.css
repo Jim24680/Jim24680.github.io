@@ -175,3 +175,13 @@ h2 {
   top: 50px;
   border: 3px solid black;
 }
+
+.dreamHeader {
+  position: relative;
+  left: 700px;
+  bottom: 400px;
+  font-size: 30px;
+  font-weight: 700;
+  width: 150px;
+  border: 3px solid black;
+}
