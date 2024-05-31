@@ -76,17 +76,17 @@ li {
 
 .ratings {
   position: relative;
-  bottom: 550px;
+  bottom: 400px;
   left: 700px;
   font-weight: 700;
-  font-size 30px;
+  font-size: 30px;
   width: 500px;
   border: 3px solid black;
 }
 
 .descriptor {
   position: relative;
-  bottom: 400px;
+  bottom: 375px;
   left: 700px;
   font-weight: 400;
   font-size: 24px;
